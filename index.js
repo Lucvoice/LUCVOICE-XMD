@@ -695,7 +695,7 @@ setTimeout(() => {
 ${FOOTER_TEXT}
 `;
                  await zk.sendMessage(zk.user.id, {
-    image: { url: "https://files.catbox.moe/8a9abd.png" },
+    image: { url: "https://files.catbox.moe/p5lk1c.png" },
     caption: msg
 });
                 }
