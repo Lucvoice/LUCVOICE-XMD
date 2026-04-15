@@ -59,7 +59,7 @@ const readmore = more.repeat(4001)
 
 // Bot name configuration
 const BOT_NAME = "𝐋𝐔𝐂𝐕𝐎𝐈𝐂𝐄-𝐗𝐌𝐃";
-const FOOTER_TEXT = "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐋𝐮𝐤𝐚 𝐈𝐓";
+const FOOTER_TEXT = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴜᴋᴀ ɪᴛ";
 const BOT_IMAGE_URL = "https://files.catbox.moe/p5lk1c.png";
 
 // Global variables
