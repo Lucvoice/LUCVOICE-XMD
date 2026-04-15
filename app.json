@@ -89,11 +89,7 @@
       "description": "Enable anti-delete feature to capture deleted messages (type yes to active or no to deactive)",
       "value": "yes",
       "required": true
-    },
-    "ADM": {
-      "description": "Alternative anti-delete setting (type yes to active or no to deactive)",
-      "value": "yes",
-      "required": false
+ 
     }
   },
   "formation": {
