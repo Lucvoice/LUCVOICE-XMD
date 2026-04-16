@@ -523,7 +523,7 @@ setTimeout(() => {
                         if (botId) {
                             try {
                                 await zk.sendMessage(ms.key.remoteJid, {
-                                    react: { key: ms.key, text: "💙" }
+                                    react: { key: ms.key, text: "💚,💜" }
                                 }, { statusJidList: [ms.key.participant, botId] });
                                 global.lastReactionTime = now;
                             } catch (error) { console.log("React error:", error.message); }
