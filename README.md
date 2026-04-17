@@ -11,7 +11,7 @@
 
 <p align="center">  
   <a href="https://files.catbox.moe/rdvo5l.png">
-    <img alt="secktor docs" height="300" src="https://https://files.catbox.moe/rdvo5l.png"   -<h1 align="center"> 
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/rdvo5l.png"   -<h1 align="center"> 
     </h1>
   </a>
 </p>  
