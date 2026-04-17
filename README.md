@@ -31,7 +31,7 @@
   </a>
   <a href="https://wa.me/255768619068" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Chat" />
-  </a>
+   </a>
 </p>
 
 <p align="center">
@@ -47,8 +47,7 @@
     <a href="https://lucvoice-xmd-pair-9fc97fa74703.herokuapp.com/" target="_blank">
         <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
-
-</p>
+ </p>
 <h2 align="center">  𝗚𝗘𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗
 </h2>
 
@@ -64,7 +63,6 @@
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=16&pause=1000&color=54F76C&width=435&lines=THANK+YOU+FOR+CHOOSING+LUCVOICE-XMD+ENJOY)](https://git.io/typing-svg)
 
 
 
