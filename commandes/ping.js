@@ -1,38 +1,34 @@
 const { zokou } = require("../framework/zokou");
+const sila = require("../ʟᴜᴄᴠᴏɪᴄᴇ/ʟᴜᴄᴠᴏɪᴄᴇ");
 
 zokou({
-  nomCom: "ping",
-  categorie: "General"
+    nomCom: "ping",
+    aliases: ["pong", "speed"],
+    reaction: "🏓",
+    categorie: "General",
+    desc: "Check bot response speed"
 }, async (dest, zk, commandeOptions) => {
 
-  const { ms } = commandeOptions;
+    const { ms } = commandeOptions;
+    const config = sila.getConfig();
 
-  // Step 1
-  let start = new Date().getTime();
-  let msg = await zk.sendMessage(dest, { text: "🏓 Pinging..." }, { quoted: ms });
+    const start = Date.now();
+    await zk.sendMessage(dest, { text: "🏓 Checking ping..." }, { quoted: ms });
+    const latency = Date.now() - start;
 
-  // Step 2 (speed)
-  let speed = new Date().getTime() - start;
-  await zk.sendMessage(dest, {
-    text: `⚡ Speed: ${speed}ms`
-  }, { edit: msg.key });
-
-  // Step 3 (loading)
-  await new Promise(r => setTimeout(r, 800));
-  await zk.sendMessage(dest, {
-    text: "📡 Checking system..."
-  }, { edit: msg.key });
-
-  // Step 4 (final UI)
-  await new Promise(r => setTimeout(r, 800));
-  await zk.sendMessage(dest, {
-    text: `
-╭───〔 🤖 LUCVOICE-XMD 〕───
-│ 🏓 Pong!
-│ ⚡ Speed  : ${speed} ms
-│ 📡 Status : ONLINE 🟢
-╰───────────────
-`
-  }, { edit: msg.key });
+    await zk.sendMessage(dest, {
+        text: " ",
+        contextInfo: {
+            externalAdReply: {
+                title: config.botName,
+                body: `🏓 PONG! ${latency} ms`,
+                mediaType: 1,
+                previewType: 0,
+                thumbnailUrl: config.botPic,
+                sourceUrl: `https://wa.me/${config.ownerNumber}`,
+                renderLargerThumbnail: false
+            }
+        }
+    }, { quoted: ms });
 
 });
