@@ -64,7 +64,7 @@
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
  
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=16&pause=1000&color=54F76C&width=435&lines=THANK+YOU+FOR+CHOOSING+LUCVOICE-XMD+ENJOY)](https://git.io/typing-svg)
 
 
 
