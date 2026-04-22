@@ -44,7 +44,7 @@
 <p align="center">
     <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
   <br>
-    <a href="https://lucvoice-xmd-pair1-468932b03c6c.herokuapp.com/pair" target="_blank">
+    <a href="https://lucvoice-xmd-pair1-468932b03c6c.herokuapp.com/" target="_blank">
         <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
  </p>
