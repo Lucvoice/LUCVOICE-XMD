@@ -6,11 +6,13 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>⚡ NEXT GENERATION WHATSAPP BOT ⚡</strong>
-  <br>
-  <em>Fast • Smart • Powerful • Easy To Deploy</em>
-</p>
+<div align="center">
+
+  ### 🚀 **HEROKU-BT WhatsApp Bot**
+
+  [![GitHub forks](https://img.shields.io/github/forks/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/fork)
+  [![GitHub stars](https://img.shields.io/github/stars/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/stargazers)
+  [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 ---
 
