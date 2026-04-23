@@ -46,7 +46,7 @@ zokou({ nomCom: "menu2", categorie: "General" }, async (dest, zk, commandeOption
 🔥 Fast | Smart | AI Ready
 `;
 
-        let imageUrl = "https://files.catbox.moe/8a9abd.png";
+        let imageUrl = "https://files.catbox.moe/vhre8c.png";
 
         await zk.sendMessage(dest, {
             image: { url: imageUrl },
