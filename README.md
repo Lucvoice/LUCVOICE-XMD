@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  ### 🚀 **HEROKU-BT WhatsApp Bot**
+  ### **LUCVOICE-XMD BOT**
 
   [![GitHub forks](https://img.shields.io/github/forks/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/fork)
   [![GitHub stars](https://img.shields.io/github/stars/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/stargazers)
