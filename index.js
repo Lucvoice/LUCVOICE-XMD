@@ -683,19 +683,12 @@ setTimeout(() => {
 ┃ 🌐 MODE     : ${mode.toUpperCase()} 🟢
 ┃ 💫 PREFIX   : [ ${prefixe} ]
 ┃ ⚡ SPEED    : FAST ⚡
-┃ 📡 NETWORK  : STABLE 📶
-╰━━━━━━━━━━━━━━━━━━━━━━╯
-
-╭━━━〔 🚀 BOT INFO 〕━━━╮
-┃ 🔥 NAME     : ${BOT_NAME}
-┃ 🧠 ENGINE   : NODE.JS
-┃ 🌍 GITHUB   : https://github.com/lucvoice/LUCVOICE-XMD
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
 
 ${FOOTER_TEXT}
 `;
                  await zk.sendMessage(zk.user.id, {
-    image: { url: "https://files.catbox.moe/p5lk1c.png" },
+    image: { url: "https://files.catbox.moe/tz0l0b.png" },
     caption: msg
 });
                 }
