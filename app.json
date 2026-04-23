@@ -39,7 +39,7 @@
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu; eg: url1,url2,url3.....",
-      "value": "https://files.catbox.moe/8a9abd.png",
+      "value": "https://files.catbox.moe/vhre8c.png",
       "required": false
     },
     "PUBLIC_MODE": {
