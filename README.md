@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucvoice/LUCVOICE-XMD">
-    <img alt="LUCVOICE-XMD Banner" height="350" src="https://files.catbox.moe/tz0l0b.png">
+    <img alt="LUCVOICE-XMD Banner" height="350" src="https://files.catbox.moe/1pcqmc.png">
   </a>
 </p>
 
