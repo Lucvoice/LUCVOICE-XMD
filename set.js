@@ -14,9 +14,9 @@ module.exports = {
     PREFIXE: process.env.PREFIX || ".",
     
     // Owner Information
-    OWNER_NAME: process.env.OWNER_NAME || "Luka IT",
+    OWNER_NAME: process.env.OWNER_NAME || "Lucvoice",
     NOM_OWNER: process.env.NOM_OWNER || "Luka",
-    NUMERO_OWNER: process.env.NUMERO_OWNER || "255612619717",              
+    NUMERO_OWNER: process.env.NUMERO_OWNER || "255768619068",              
     
     // Status Features
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
@@ -26,7 +26,7 @@ module.exports = {
     // Bot Information
     BOT: process.env.BOT_NAME || '𝐋𝐔𝐂𝐕𝐎𝐈𝐂𝐄-𝐗𝐌𝐃',
     BOT_NAME: process.env.BOT_NAME || '𝐋𝐔𝐂𝐕𝐎𝐈𝐂𝐄-𝐗𝐌𝐃',
-    URL: process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/8a9abd.png',
+    URL: process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/vhre8c.png',
     
     // Mode Settings
     MODE: process.env.PUBLIC_MODE || "yes",
