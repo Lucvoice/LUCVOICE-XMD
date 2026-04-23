@@ -10,7 +10,7 @@
 
   ### **LUCVOICE-XMD BOT**
 
-  [![GitHub forks](https://img.shields.io/github/forks/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/fork)
+  [![GitHub forks](https://img.shields.io/github/forks/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/fork)
   [![GitHub stars](https://img.shields.io/github/stars/rahzyn/HEROKU-BT?style=social)](https://github.com/rahzyn/HEROKU-BT/stargazers)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
