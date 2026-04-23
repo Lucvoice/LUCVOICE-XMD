@@ -34,7 +34,7 @@
     <strong>3.  DEPLOY TO HEROKU</strong>
     <br>
     <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fclevertechnexus2%2FLUCVOICE-XMD" target="_blank">
-        <img alt="Deploy Heroku" src="https://img.shields.io/badge/DEPLOY%20HEROKU-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=purple&color=purple"/>
+        <img alt="Deploy Heroku" src="https://img.shields.io/badge/DEPLOY%20HEROKU-100000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=purple&color=purple"/>
     </a>
 </p>
 
