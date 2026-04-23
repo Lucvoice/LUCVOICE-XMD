@@ -56,7 +56,7 @@ ${readmore}
 ╰──────────────╯`;
 
     // ✅ Your image link
-    let imageUrl = "https://files.catbox.moe/8a9abd.png";
+    let imageUrl = "https://files.catbox.moe/vhre8c.png";
 
     try {
         await zk.sendMessage(dest, {
