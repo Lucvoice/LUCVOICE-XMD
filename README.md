@@ -1,4 +1,4 @@
-<h1 align="center"> LUCVOICE-XMD </h1>
+
 
 <p align="center">
   <a href="https://github.com/lucvoice/LUCVOICE-XMD">
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  ### **LUCVOICE-XMD BOT**
+  <h1 align="center"> LUCVOICE-XMD </h1>
 
   [![GitHub forks](https://img.shields.io/github/forks/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/fork)
   [![GitHub stars](https://img.shields.io/github/stars/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/stargazers)
