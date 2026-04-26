@@ -678,12 +678,12 @@ setTimeout(() => {
                 if (conf.DP?.toLowerCase() === 'yes') {
                     let mode = conf.MODE?.toLowerCase() === 'yes' ? 'public' : 'private';
                     let msg = `
-╭━━━〔 ${BOT_NAME} 〕━━━╮
-┃ 🤖 STATUS   : CONNECTED ✅
-┃ 🌐 MODE     : ${mode.toUpperCase()} 🟢
-┃ 💫 PREFIX   : [ ${prefixe} ]
-┃ ⚡ SPEED    : FAST ⚡
-╰━━━━━━━━━━━━━━━━━━━━━━╯
+╭─────────────━┈⊷
+│ 🌏 ${BOT_NAME} 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
+│ 💫 Prefix: [ ${prefixe} ]
+│ ⭕ Mode: ${mode}
+│ ⚡ Speed: FAST ⚡
+╰─────────────━┈⊷
 
 ${FOOTER_TEXT}
 `;
