@@ -10,12 +10,10 @@
 
   <h1 align="center"> LUCVOICE-XMD </h1>
 
-  [![GitHub forks](https://img.shields.io/github/forks/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/fork)
+[![GitHub forks](https://img.shields.io/github/forks/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/fork)
 [![GitHub stars](https://img.shields.io/github/stars/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/lucvoice/LUCVOICE-XMD?color=blue)](https://github.com/lucvoice/LUCVOICE-XMD/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/lucvoice/LUCVOICE-XMD?color=orange)](https://github.com/lucvoice/LUCVOICE-XMD/pulls)
-[![GitHub last commit](https://img.shields.io/github/last-commit/lucvoice/LUCVOICE-XMD?color=green)](https://github.com/lucvoice/LUCVOICE-XMD/commits/main)
-[![Repo size](https://img.shields.io/github/repo-size/lucvoice/LUCVOICE-XMD?color=red)](https://github.com/lucvoice/LUCVOICE-XMD)
+[![GitHub followers](https://img.shields.io/github/followers/lucvoice?style=social)](https://github.com/lucvoice?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/lucvoice/LUCVOICE-XMD?style=social)](https://github.com/lucvoice/LUCVOICE-XMD/watchers)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 ---
