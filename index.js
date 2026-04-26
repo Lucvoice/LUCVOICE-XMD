@@ -682,7 +682,7 @@ setTimeout(() => {
 │ 🌏 ${BOT_NAME} 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
 │ 💫 Prefix: [ ${prefixe} ]
 │ ⭕ Mode: ${mode}
-│ ⚡ Speed: FAST ⚡
+│ ⚡ Speed: active ⚡
 ╰─────────────━┈⊷
 
 ${FOOTER_TEXT}
