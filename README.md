@@ -50,7 +50,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=16&pause=1000&color=FF0025&width=435&lines=THANK+YOU+FOR+CHOOSING+LUCVOICE-XMD+ENJOY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=FF0025&width=435&lines=THANK+YOU+FOR+CHOOSING+LUCVOICE-XMD+ENJOY" alt="Typing SVG" /></a>
 
 
 
