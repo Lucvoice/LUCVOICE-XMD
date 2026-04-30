@@ -20,7 +20,7 @@
   <a href="https://github.com/lucvoice/LUCVOICE-XMD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="GitHub Repo" />
   </a>
-  <a href="https://github.com/Lukaa255/LUCVOICE-XMD/stargazers" target="_blank">
+  <a href="https://github.com/lucvoice/LUCVOICE-XMD/stargazers" target="_blank">
     <img src="https://img.shields.io/badge/Stars-Count-yellow?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="Stars Count" />
   </a>
   <a href="https://t.me/your-channel" target="_blank">
