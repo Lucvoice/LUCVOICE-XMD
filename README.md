@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://github.com/Lukaa255/LUCVOICE-XMD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Panel-File-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://github.com/lucvoice/LUCVOICE-XMD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Panel-File-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
 
 
