@@ -34,7 +34,7 @@
 <p align="center">
     <strong>𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬 </strong>
   <br>
-    <a href="https://github.com/Lukaa255/LUCVOICE-XMD" target="_blank">
+    <a href="https://github.com/lucvoice/LUCVOICE-XMD" target="_blank">
     <img src="https://img.shields.io/badge/FORK-REPO-181717?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="GITHUB REPO" />
     </a>
 </p>
