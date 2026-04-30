@@ -17,7 +17,7 @@
 </p>  
 
 <p align="center" style="margin-top: 5px;">
-  <a href="https://github.com/Lukaa255/LUCVOICE-XMD" target="_blank">
+  <a href="https://github.com/lucvoice/LUCVOICE-XMD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="GitHub Repo" />
   </a>
   <a href="https://github.com/Lukaa255/LUCVOICE-XMD/stargazers" target="_blank">
